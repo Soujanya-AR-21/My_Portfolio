@@ -39,3 +39,8 @@ p{
     font-weight: 600;
     margin: 23px;
 }
+
+button{
+    background-color: rgb(160, 26, 26);
+    color: rgb(168,80,50);
+}
