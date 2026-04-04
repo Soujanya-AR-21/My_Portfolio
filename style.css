@@ -60,3 +60,11 @@ a{
     margin: 25px;
     color:rgb(211, 74, 29) ;     
 }
+
+.navbar{
+    position: fixed;
+    top: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+    border: 1px solid rgb(233, 69, 14);
+    border-radius: 20px;
