@@ -52,3 +52,11 @@ h2{
     margin-top: 20%;
     text-shadow: 0 4px 50px rgb(168,80,50);
 }
+
+a{
+    text-decoration: none;
+    text-align:center;
+    font-size: 1.2rem;
+    margin: 25px;
+    color:rgb(211, 74, 29) ;     
+}
