@@ -78,3 +78,10 @@ a{
 div{
     text-align: center;
 }
+
+.img-container{
+    height: 30vh;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
