@@ -127,3 +127,8 @@ div{
   border-radius: 0.9em;
   padding: 8px 14px;
   background-color: rgb(168,80,50);
+  display: inline-block;   
+  cursor: pointer;
+  border: none;
+  margin: 5px; 
+}
