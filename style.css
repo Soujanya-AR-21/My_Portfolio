@@ -120,3 +120,10 @@ div{
 .Resume:hover{
     background-color: rgb(121, 50, 27);
 }
+
+.sem{
+  border: 2px solid rgb(168,80,50);
+  color: white;
+  border-radius: 0.9em;
+  padding: 8px 14px;
+  background-color: rgb(168,80,50);
