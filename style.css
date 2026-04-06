@@ -151,3 +151,6 @@ div{
     margin: auto;
     justify-content: center;
     align-items: center;
+    margin-top: 40%;
+    box-shadow: o 20px 30px 40px rgb(211, 74, 29);
+ }
