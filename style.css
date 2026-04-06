@@ -132,3 +132,8 @@ div{
   border: none;
   margin: 5px; 
 }
+
+.btn{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
