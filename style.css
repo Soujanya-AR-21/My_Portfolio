@@ -183,3 +183,11 @@ ul{
 #projects{
     margin-top: 500px;
 }
+
+.pro1{
+    border: 3px solid rgb(212, 121, 91);
+    border-radius: 2em;
+    width: 400px;
+    height: auto;
+    margin-left: 70px;
+    
