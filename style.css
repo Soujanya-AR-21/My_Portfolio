@@ -200,3 +200,10 @@ ul{
     text-align: start;
     margin-left: 40px;
  }
+
+.pro2{
+    border: 3px solid rgb(218, 70, 20);
+    border-radius: 2em;
+    width: 400px;
+    height: 600px;
+    margin-left: 40px;
