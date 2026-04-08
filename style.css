@@ -212,3 +212,9 @@ ul{
     margin-top: 0%;
     box-shadow: o 20px 30px 40px rgb(211, 74, 29);
  } 
+
+#showMoreBtn {
+    background-color: black;
+    color: rgb(212, 121, 91);
+    border: none;
+}
