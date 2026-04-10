@@ -213,6 +213,11 @@ ul{
     box-shadow: o 20px 30px 40px rgb(211, 74, 29);
  } 
 
+.show-more-btn {
+color: orange;
+cursor: pointer;
+}
+
 #showMoreBtn {
     background-color: black;
     color: rgb(212, 121, 91);
