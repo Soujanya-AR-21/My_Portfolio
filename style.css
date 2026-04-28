@@ -32,3 +32,8 @@ html {
     align-items: center;
     backdrop-filter: blur(12px);
  }
+
+ nav a {
+     color: #fff;
+     
+ }
