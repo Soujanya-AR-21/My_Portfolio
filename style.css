@@ -11,3 +11,7 @@ body {
     transition: 0.4s;
     animation: fadeIn 1s ease-in;
 }
+
+html {
+    scroll-behavior: smooth;
+}
