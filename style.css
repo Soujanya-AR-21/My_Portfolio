@@ -43,3 +43,8 @@ html {
 nav a:hover {
      color: rgb(233, 69, 14);
  }
+
+a {
+    text-decoration: none;
+    text-align: center;
+    font-size: 1.2rem;
