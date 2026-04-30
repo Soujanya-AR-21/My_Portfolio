@@ -55,5 +55,8 @@ a {
 .img-container {
     margin-top: 50px;
     height: 30vh;
+    align-items: center;
+    justify-content: center;
+    display: flex;
 }
 
