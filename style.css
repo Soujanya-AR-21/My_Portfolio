@@ -73,3 +73,8 @@ a {
     margin-top: 70px;
 }
 
+.project {
+    border: 2px solid rgb(168, 80, 50);
+    color: white;
+    border-radius: 0.9em;
+
