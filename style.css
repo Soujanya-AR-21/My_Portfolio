@@ -81,3 +81,8 @@ a {
     height: 30px;
     background-color: black;
 }
+
+.Resume {
+    border: 2px solid rgb(168, 80, 50);
+    color: white;
+    border-radius: 0.9em;
