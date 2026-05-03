@@ -125,3 +125,7 @@ p {
     font-weight: 600;
     margin: 23px;
 }
+
+button {
+    transition: all 0.3s ease;
+}
