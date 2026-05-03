@@ -129,3 +129,7 @@ p {
 button {
     transition: all 0.3s ease;
 }
+
+h2 {
+    color: rgb(168, 80, 50);
+    text-align: center;
