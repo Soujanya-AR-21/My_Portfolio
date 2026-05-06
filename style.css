@@ -136,3 +136,8 @@ h2 {
     font-family: 'Times New Roman';
     margin-top: 20%;
 }
+
+.sem {
+    border: 2px solid rgb(255, 64, 0);
+    color: white;
+    border-radius: 0.9em;
