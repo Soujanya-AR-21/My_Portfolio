@@ -145,3 +145,6 @@ h2 {
     background-color: rgb(200, 80, 50);
     display: inline-block;
     cursor: pointer;
+    border: none;
+    margin: 5px;
+}
