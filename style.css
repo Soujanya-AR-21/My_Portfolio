@@ -152,3 +152,7 @@ h2 {
 .sem:hover {
     background-color: rgb(255, 64, 0);
 }
+
+.btn {
+    display: flex;
+    flex-wrap: wrap;
