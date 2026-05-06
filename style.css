@@ -161,3 +161,7 @@ h2 {
     gap: 5px;
     padding: 10px;
 }
+
+ul {
+    list-style-position: inside;
+    padding-left: 30px;
