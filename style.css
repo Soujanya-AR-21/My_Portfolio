@@ -190,3 +190,8 @@ ul {
     max-width: 800px;
     margin: 0 auto;
 }
+
+.timeline {
+    background: #000;
+    border-radius: 15px;
+    padding: 30px;
