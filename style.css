@@ -185,3 +185,8 @@ ul {
 #education {
     text-align: center;
 }
+
+.time {
+    max-width: 800px;
+    margin: 0 auto;
+}
