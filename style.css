@@ -223,3 +223,8 @@ ul {
     color: rgb(168, 80, 50);
     margin-bottom: 50px;
 }
+
+.projects-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+    gap: 30px;
