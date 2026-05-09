@@ -207,3 +207,8 @@ ul {
     margin-left: 20px;
     margin-right: 20px;
 }
+
+.timeline-item h3 {
+    color: rgb(212, 121, 91);
+    margin-bottom: 10px;
+}
