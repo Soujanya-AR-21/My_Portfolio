@@ -253,3 +253,9 @@ ul {
     transform: translateY(-10px);
     box-shadow: 0 0 40px rgba(212, 121, 91, 0.5);
 }
+
+.project-img {
+    width: 100%;
+    border-radius: 16px;
+    margin-bottom: 18px;
+}
