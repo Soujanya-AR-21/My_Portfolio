@@ -248,3 +248,8 @@ ul {
     backdrop-filter: blur(14px);
     transition: 0.4s;
 }
+
+.project-card:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 0 40px rgba(212, 121, 91, 0.5);
+}
