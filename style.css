@@ -236,3 +236,6 @@ ul {
     background: linear-gradient(180deg,
             rgba(14, 13, 13, 0.08),
             rgba(26, 25, 25, 0.02));
+    border-radius: 22px;
+    padding: 22px;
+    border: 3px solid transparent;
