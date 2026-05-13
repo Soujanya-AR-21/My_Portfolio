@@ -264,3 +264,7 @@ ul {
     font-size: 0.9rem;
     opacity: 0.85;
 }
+
+.project-desc.truncated {
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
