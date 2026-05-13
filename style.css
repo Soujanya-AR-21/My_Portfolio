@@ -259,3 +259,8 @@ ul {
     border-radius: 16px;
     margin-bottom: 18px;
 }
+
+.project-desc {
+    font-size: 0.9rem;
+    opacity: 0.85;
+}
