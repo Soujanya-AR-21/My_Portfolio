@@ -279,3 +279,7 @@ ul {
     max-height: 300px;
     object-fit: contain;
 }
+
+.code {
+    border: 2px solid rgb(19, 19, 19);
+    color: white;
