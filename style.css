@@ -289,3 +289,5 @@ ul {
     margin-bottom: 20px;
     cursor: pointer;
     background-color: black;
+    box-shadow: 0 2px 2px;
+}
