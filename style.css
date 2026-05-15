@@ -315,3 +315,6 @@ ul {
 
 #showMoreBtn {
     background-color: black;
+    color: rgb(212, 121, 91);
+    border: none;
+}
