@@ -309,3 +309,6 @@ ul {
 .show-more-btn {
     color: orange;
     cursor: pointer;
+    margin-left: 5px;
+    font-size: 14px;
+}
