@@ -305,3 +305,7 @@ ul {
 .description span {
     transition: all 0.3s ease;
 }
+
+.show-more-btn {
+    color: orange;
+    cursor: pointer;
