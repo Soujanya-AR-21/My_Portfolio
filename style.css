@@ -297,3 +297,7 @@ ul {
     color: black;
     transform: scale(1.05);
 }
+
+.full-text {
+    display: none;
+}
