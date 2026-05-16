@@ -24,3 +24,8 @@ function showSemester (sem,btn){
                 <li>Object Oriented Concepts using Java</li>
                 <li>Discrete Mathematical Structures</li>
                 <li>Public Finance</li>
+                <li>Digital Fluency</li>
+                <li>Data Structures-Lab</li>
+                <li>JAVA-Lab</li>
+            </ul>`;
+        break;
