@@ -19,3 +19,8 @@ function showSemester (sem,btn){
             content = `
             <h2 id="semester">semester 2</h2>
             <h3 id="semestet-c">CGPA:7.97</h3>
+            <ul>
+                <li>Data Structures using C</li>
+                <li>Object Oriented Concepts using Java</li>
+                <li>Discrete Mathematical Structures</li>
+                <li>Public Finance</li>
