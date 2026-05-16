@@ -9,3 +9,6 @@ function showSemester (sem,btn){
                 <li>Fundamentals of Computers</li>
                 <li>Programming in C</li>
                 <li>Mathematical Foundation</li>
+                <li>Accounting for Everyone</li>
+                <li>Information technology-Lab</li>
+                <li>Programming in C-Lab</li>
