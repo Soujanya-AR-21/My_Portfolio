@@ -28,4 +28,4 @@ function showSemester (sem,btn){
                 <li>Data Structures-Lab</li>
                 <li>JAVA-Lab</li>
             </ul>`;
-        break;
+        break; 
