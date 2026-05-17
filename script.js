@@ -1,5 +1,5 @@
 function showSemester (sem,btn){
-    let content = "";
+    let content = ""; 
     switch (sem){
         case 1: 
             content = `   
