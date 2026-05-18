@@ -49,3 +49,6 @@ function showSemester (sem,btn){
             content =`
             <h2 id="semester">semester 4</h2>
             <h3 id="semestet-c">CGPA:8.15</h3>
+            <ul>
+                <li>Python Programming</li>
+                <li>Computer Multimedia & Animation</li>
