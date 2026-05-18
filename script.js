@@ -38,3 +38,5 @@ function showSemester (sem,btn){
                 <li>Database Management System</li>
                 <li>C# and Dot Net Framework</li>
                 <li>Computer Communication and Netwirks</li>
+                <li>Advertising Skills</li>
+                <li>Open Source Tools</li>
