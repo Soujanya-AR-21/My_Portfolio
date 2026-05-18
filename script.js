@@ -40,3 +40,7 @@ function showSemester (sem,btn){
                 <li>Computer Communication and Netwirks</li>
                 <li>Advertising Skills</li>
                 <li>Open Source Tools</li>
+                <li>Database Management System-Lab</li>
+                <li>C# and Dot Net Framework-Lab</li>
+            </ul>`;
+        break;
