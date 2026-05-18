@@ -34,3 +34,7 @@ function showSemester (sem,btn){
             content =`
             <h2 id="semester">semester 3</h2>
             <h3 id="semestet-c">CGPA:8.1</h3>
+            <ul>
+                <li>Database Management System</li>
+                <li>C# and Dot Net Framework</li>
+                <li>Computer Communication and Netwirks</li>
