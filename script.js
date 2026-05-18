@@ -44,3 +44,8 @@ function showSemester (sem,btn){
                 <li>C# and Dot Net Framework-Lab</li>
             </ul>`;
         break;
+
+        case 4:
+            content =`
+            <h2 id="semester">semester 4</h2>
+            <h3 id="semestet-c">CGPA:8.15</h3>
