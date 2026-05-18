@@ -56,3 +56,5 @@ function showSemester (sem,btn){
                 <li>Financial Education and Investment Awarenese</li>
                 <li>Python Programming-Lab</li>
                 <li>Computer Multimedia & Animation-Lab</li>
+            </ul>`;
+        break;
