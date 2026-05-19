@@ -67,3 +67,5 @@ function showSemester (sem,btn){
                 <li>Design and Analysis of Algorithms</li>
                 <li>Statistical Computing and R Programming</li>
                 <li>Software Engineering</li>
+                <li>Cloud Computing</li>
+                <li>Digital Marketing</li>
