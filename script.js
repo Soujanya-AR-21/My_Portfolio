@@ -58,3 +58,8 @@ function showSemester (sem,btn){
                 <li>Computer Multimedia & Animation-Lab</li>
             </ul>`;
         break;
+
+        case 5:
+            content = `
+            <h2 id="semester">semester 5</h2>
+            <h3 id="semestet-c">CGPA:8.34</h3>
