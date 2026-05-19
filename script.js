@@ -73,3 +73,7 @@ function showSemester (sem,btn){
                 <li>R Programming-Lab</li>
             </ul>`;
         break;
+
+        case 6:
+            content = `
+            <h2 id="semester">semester 6</h2>
