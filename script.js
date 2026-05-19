@@ -69,3 +69,7 @@ function showSemester (sem,btn){
                 <li>Software Engineering</li>
                 <li>Cloud Computing</li>
                 <li>Digital Marketing</li>
+                <li>Design and Analysis of Algorithms-Lab</li>
+                <li>R Programming-Lab</li>
+            </ul>`;
+        break;
