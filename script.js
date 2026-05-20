@@ -98,3 +98,5 @@ function showSemester (sem,btn){
 window.onload = function() {
     showSemester(1);
 }
+
+
