@@ -77,3 +77,6 @@ function showSemester (sem,btn){
         case 6:
             content = `
             <h2 id="semester">semester 6</h2>
+            <h3 id="semestet-c">CGPA:</h3>
+            <ul>
+                <li>PHP</li>
