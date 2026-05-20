@@ -94,3 +94,7 @@ function showSemester (sem,btn){
     document.getElementById("button").innerHTML = content;
     console.log(content);
 }
+
+window.onload = function() {
+    showSemester(1);
+}
