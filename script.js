@@ -88,3 +88,6 @@ function showSemester (sem,btn){
                 <li>Advanced Java-Lab</li>
             </ul>`;
         break;
+        default:
+            content = "No data available"
+    }
