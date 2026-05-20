@@ -80,3 +80,5 @@ function showSemester (sem,btn){
             <h3 id="semestet-c">CGPA:</h3>
             <ul>
                 <li>PHP</li>
+                <li>Advanced Java</li>
+                <li>Artificial Intelligence</li>
