@@ -82,3 +82,5 @@ function showSemester (sem,btn){
                 <li>PHP</li>
                 <li>Advanced Java</li>
                 <li>Artificial Intelligence</li>
+                <li>Fundamentals of Data Science</li>
+                <li>WCMS</li>
