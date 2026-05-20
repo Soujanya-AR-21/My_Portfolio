@@ -86,3 +86,5 @@ function showSemester (sem,btn){
                 <li>WCMS</li>
                 <li>PHP-Lab</li>
                 <li>Advanced Java-Lab</li>
+            </ul>`;
+        break;
