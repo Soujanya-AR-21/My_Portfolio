@@ -99,4 +99,6 @@ window.onload = function() {
     showSemester(1);
 }
 
+const buttons = document.querySelectorAll(".show-more-btn");
+
 
