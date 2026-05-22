@@ -107,4 +107,7 @@ buttons.forEach((btn) => {
       const shortText = parent.querySelector(".short-text");
       const fullText = parent.querySelector(".full-text");
 
+      if (fullText.style.display === "inline") {
+      shortText.style.display = "inline";
+
 
