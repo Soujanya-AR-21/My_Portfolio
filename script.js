@@ -111,6 +111,8 @@ buttons.forEach((btn) => {
           shortText.style.display = "inline";
           fullText.style.display = "none";
           btn.textContent = " show more";
-       }
+       } else {
+          shortText.style.display = "none";
+          fullText.style.display = "inline";
 
 
