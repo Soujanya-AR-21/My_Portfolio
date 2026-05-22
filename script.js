@@ -101,4 +101,7 @@ window.onload = function() {
 
 const buttons = document.querySelectorAll(".show-more-btn");
 
+buttons.forEach((btn) => {
+  btn.addEventListener("click", () => {
+
 
