@@ -104,5 +104,7 @@ const buttons = document.querySelectorAll(".show-more-btn");
 buttons.forEach((btn) => {
   btn.addEventListener("click", () => {
       const parent = btn.closest(".description");
+      const shortText = parent.querySelector(".short-text");
+      const fullText = parent.querySelector(".full-text");
 
 
