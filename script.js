@@ -108,6 +108,9 @@ buttons.forEach((btn) => {
       const fullText = parent.querySelector(".full-text");
 
       if (fullText.style.display === "inline") {
-      shortText.style.display = "inline";
+          shortText.style.display = "inline";
+          fullText.style.display = "none";
+          btn.textContent = " show more";
+       }
 
 
