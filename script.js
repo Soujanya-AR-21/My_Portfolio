@@ -114,5 +114,10 @@ buttons.forEach((btn) => {
        } else {
           shortText.style.display = "none";
           fullText.style.display = "inline";
+          btn.textContent = " show less";
+    }
+
+  });
+});
 
 
