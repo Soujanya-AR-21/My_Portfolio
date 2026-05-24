@@ -72,6 +72,10 @@ a {
     margin-top: 70px;
 }
 
+#about-content {
+    text-align: center;
+    font-size: larger;
+
 .project {
     border: 2px solid rgb(168, 80, 50);
     color: white;
