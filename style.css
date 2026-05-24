@@ -75,6 +75,10 @@ a {
 #about-content {
     text-align: center;
     font-size: larger;
+    font-weight: 800;
+    margin: 5%;
+    font-family: 'Times New Roman';
+}
 
 .project {
     border: 2px solid rgb(168, 80, 50);
