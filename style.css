@@ -85,6 +85,10 @@ section {
 }
 
 /* Education */
+#education {
+    min-height: 100hv;
+    display: flex;
+    flex-direction: column;
 
 .project {
     border: 2px solid rgb(168, 80, 50);
