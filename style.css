@@ -100,6 +100,10 @@ p {
     margin: 23px;
 }
 
+button {
+    transition: all 0.3s ease;
+}
+
 .project {
     border: 2px solid rgb(168, 80, 50);
     color: white;
