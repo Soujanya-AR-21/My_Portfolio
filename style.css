@@ -97,6 +97,9 @@ section {
 p {
     text-align: center;
     font-weight: 600;
+    margin: 23px;
+}
+
 .project {
     border: 2px solid rgb(168, 80, 50);
     color: white;
