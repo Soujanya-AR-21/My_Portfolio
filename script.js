@@ -12,7 +12,7 @@ function showSemester (sem,btn){
                 <li>Accounting for Everyone</li>
                 <li>Information technology-Lab</li>
                 <li>Programming in C-Lab</li>
-            </ul> `;        
+            </ul> `;         
         break;
 
         case 2: 
