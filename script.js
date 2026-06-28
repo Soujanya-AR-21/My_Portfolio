@@ -132,6 +132,8 @@ function sendMail(event) {
     emailjs.send("service_yjl4e3k", "template_mtzwx3e", parms)
         .then(function(response) {
             console.log("SUCCESS:", response);
+            alert("Email Sent!");
+        })
 
 
 
