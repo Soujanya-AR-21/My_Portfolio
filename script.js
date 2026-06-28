@@ -134,6 +134,12 @@ function sendMail(event) {
             console.log("SUCCESS:", response);
             alert("Email Sent!");
         })
+    .catch(function(error) {
+            console.error("ERROR:", error);
+            alert("Failed to send Email");
+        });
+}
+
 
 
 
