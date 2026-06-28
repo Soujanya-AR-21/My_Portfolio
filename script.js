@@ -123,5 +123,11 @@ buttons.forEach((btn) => {
 function sendMail(event) {
     event.preventDefault();
 
+    const parms = {
+        name: document.getElementById("name").value,
+        email: document.getElementById("email").value,
+        message: document.getElementById("message").value
+    };
+
 
 
