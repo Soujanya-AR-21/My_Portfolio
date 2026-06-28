@@ -120,4 +120,8 @@ buttons.forEach((btn) => {
   });
 });
 
+function sendMail(event) {
+    event.preventDefault();
+
+
 
