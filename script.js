@@ -129,5 +129,9 @@ function sendMail(event) {
         message: document.getElementById("message").value
     };
 
+    emailjs.send("service_yjl4e3k", "template_mtzwx3e", parms)
+        .then(function(response) {
+            console.log("SUCCESS:", response);
+
 
 
