@@ -81,6 +81,10 @@ a {
     background-color: black;
 }
 
+.Resume {
+    border: 2px solid rgb(168, 80, 50);
+    color: white;
+    
 #about-content {
     text-align: center;
     font-size: larger;
