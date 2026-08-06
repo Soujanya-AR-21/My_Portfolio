@@ -84,6 +84,8 @@ a {
 .Resume {
     border: 2px solid rgb(168, 80, 50);
     color: white;
+    border-radius: 0.9em;
+    width: 100px;
     
 #about-content {
     text-align: center;
