@@ -325,3 +325,5 @@ ul {
     display: flex;
     flex-direction: column;
     align-items: center;
+    justify-items: flex-start;
+    text-shadow: none;
