@@ -328,3 +328,8 @@ ul {
     justify-items: flex-start;
     text-shadow: none;
 }
+
+.cont {
+    background: linear-gradient(180deg,
+            rgba(14, 13, 13, 0.08),
+            rgba(26, 25, 25, 0.02));
